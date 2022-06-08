@@ -1,0 +1,71 @@
+/* vi overrides */
+@font-face {
+	font-family: 'P22 Typewriter';
+	src: local('P22 Typewriter'), 
+		 local('P22 Typewriter Regular'),
+		 url('../fonts/P22 Typewriter Regular.eot'), /* IE9 Compat Modes */
+		 url('../fonts/P22 Typewriter Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('../fonts/P22 Typewriter Regular.woff') format('woff'), /* Super Modern Browsers */
+		 url('../fonts/P22 Typewriter Regular.woff2') format('woff2'), /* Pretty Modern Browsers */
+		 url('../fonts/P22 Typewriter Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('../fonts/P22 Typewriter Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+	font-weight: normal;
+	font-style: normal;
+}
+
+html {
+    font-family: 'P22 Typewriter', monospace;
+}
+
+h3 {
+	margin: 0.8em 0 0;
+}
+
+p, pre {
+    margin: .5em 0;
+}
+
+.versioning {
+    margin: 2em auto 0;
+}
+
+.gamedisclaimer {
+    font-family: 'P22 Typewriter', sans-serif;
+}
+
+#TitlePage .page-content {
+	min-height: 54em;
+}
+
+.page-content {
+    margin: 0 3em 0 4em;
+    padding-top: 3.5em;
+}
+
+.page-content .intro {
+    margin: 0 -0.5em 0 0;
+}
+
+.title h1 {
+	margin-top: 1.3em;
+	padding: 0;
+}
+
+.section-title .vertical-spacer {
+    height: 22.5em;
+}
+
+#simon-legend {
+	overflow: visible;
+}
+
+.repeaters-table th,
+.repeaters-table td,
+#venninstructiontable th,
+.blue-table th.header {
+	white-space: nowrap;
+}
+
+.whos-on-first-step2-table td {
+    font-size: .7em;
+}
