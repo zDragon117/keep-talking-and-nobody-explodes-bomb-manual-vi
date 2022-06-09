@@ -35,6 +35,11 @@ p, pre {
 
 #TitlePage .page-content {
 	min-height: 54em;
+    padding-top: 2.5em;
+}
+
+#TitlePage .absolute-footer {
+    top: 58em;
 }
 
 .page-content {
