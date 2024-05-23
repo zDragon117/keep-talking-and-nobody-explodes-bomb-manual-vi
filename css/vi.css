@@ -5,8 +5,8 @@
 		 local('P22 Typewriter Regular'),
 		 url('../fonts/P22 Typewriter Regular.eot'), /* IE9 Compat Modes */
 		 url('../fonts/P22 Typewriter Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-		 url('../fonts/P22 Typewriter Regular.woff') format('woff'), /* Super Modern Browsers */
-		 url('../fonts/P22 Typewriter Regular.woff2') format('woff2'), /* Pretty Modern Browsers */
+		 /*url('../fonts/P22 Typewriter Regular.woff') format('woff'),*/ /* Super Modern Browsers */
+		 /*url('../fonts/P22 Typewriter Regular.woff2') format('woff2'),*/ /* Pretty Modern Browsers */
 		 url('../fonts/P22 Typewriter Regular.ttf') format('truetype'), /* Safari, Android, iOS */
 		 url('../fonts/P22 Typewriter Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
 	font-weight: normal;
